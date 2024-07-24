@@ -4,7 +4,6 @@ public class Java_01 {     //PascalConvention
     public static void main(String[] args) {     //camelConvention
         System.out.println("Hello world!");
     }
-
 }
 
 
